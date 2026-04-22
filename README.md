@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Portland-Vancouver-Hillsboro Metro Area, OR-WA, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 8 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `652691` |
 | Location | Portland-Vancouver-Hillsboro, OR-WA |
 | Category | Restaurants |
-| Full dataset size | 104 records |
-| Free sample size | 10 records (9.62%) |
-| Last export | 2026-04-15T01:42:45.690696+00:00 |
+| Full dataset size | 89 records |
+| Free sample size | 8 records (8.99%) |
+| Last export | 2026-04-22T06:23:34.400860+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-portland-vancouver-hillsboro-metro-area-or-wa-us-sample-652691/releases/download/sample-latest/beamstation_652691_restaurants-us-portlandvancouverhillsboroorwa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
