@@ -1,12 +1,12 @@
 {
-  "export_job_id": "74062438-1098-4cad-b495-d8ce3556f8c4",
+  "export_job_id": "4e0fc15f-a2f0-4025-b2d3-577444f6b00f",
   "id_short": 652691,
-  "published_at": "2026-04-18T19:37:31Z",
+  "published_at": "2026-04-22T07:49:21Z",
   "repo_name": "the-hhi-monopoly-index-for-portland-vancouver-hillsboro-metro-area-or-wa-us-sample-652691",
   "sample_asset_name": "beamstation_652691_restaurants-us-portlandvancouverhillsboroorwa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/652691/beamstation_652691_restaurants-us-portlandvancouverhillsboroorwa_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "374fa1837a1b188468caf5ebef659a534e5548eec72ac7765d142a00fd0734b9",
-  "sample_size_bytes": 56358,
-  "total_records": 104
+  "sample_records": 8,
+  "sample_sha256": "7875e8944ae8d4f1f4a56cd94d873197f63eb6e6b27098ef67b02c8ca470a516",
+  "sample_size_bytes": 47528,
+  "total_records": 89
 }
